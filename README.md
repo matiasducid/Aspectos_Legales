@@ -19,3 +19,8 @@ Ingrese a su navegador y coloque la URL: localhost:1337
 Para cerrar la aplicación correctamente debe ejecutar el siguiente comando:
 
     docker-compose -f docker-compose.prod.yml down -v
+
+
+
+Paginas guia utilizadas:
+https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/
